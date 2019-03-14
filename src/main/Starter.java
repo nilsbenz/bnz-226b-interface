@@ -4,9 +4,10 @@ import java.util.Scanner;
 
 public class Starter {
 
-    private static IService service = new FileService();
+    private static IService service;
 
     public static void main(String[] args) {
+        service = new ListService();
         boolean exit = false;
         setup();
         while(!exit) {

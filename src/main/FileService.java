@@ -12,7 +12,7 @@ import java.util.Arrays;
 
 public class FileService implements IService {
 
-    private static final String filepath = "students.txt";
+    private final String filepath = "students.txt";
 
     FileService() {
         createFileIfNotPresent();
