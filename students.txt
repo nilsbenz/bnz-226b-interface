@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1eb02a55-810b-4d7d-b836-f254f515b057",
+    "firstName": "Nils",
+    "lastName": "Benz"
+  },
+  {
+    "id": "af235de1-d11d-4298-9e2c-89de840fbb6a",
+    "firstName": "Tilon",
+    "lastName": "Heimgartner"
+  }
+]
